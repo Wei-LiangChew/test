@@ -1,0 +1,24 @@
+body {
+  background-color: #00FF48;
+  font-size: 14px;
+}
+
+h1, p {
+  color: blue;
+}
+
+h1:hover {
+  background-color: yellow;
+}
+
+ul li {
+  background-color: green;
+}
+
+h2.in-bold {
+  font-style: bold;
+}
+
+.in-italics {
+  font-style: italic;
+}
